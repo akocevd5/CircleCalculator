@@ -5,7 +5,7 @@
     <title>Circle Calculator</title>
 </head>
 <body>
-    C=2πr
+    
     <h1>Circle Calculator</h1>
     <form method="POST">
     <p>Insert radius</p>
